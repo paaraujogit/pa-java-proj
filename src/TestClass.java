@@ -7,6 +7,9 @@ public class TestClass {
 		
 		TotalAnarchy ta = new TotalAnarchy();
 		ta.showCnt();
+		
+		TriDimensionais Adriano = new TriDimensionais();
+		
 
 	}
 
