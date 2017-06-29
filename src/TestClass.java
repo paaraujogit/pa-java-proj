@@ -10,6 +10,7 @@ public class TestClass {
 		
 		TriDimensionais Adriano = new TriDimensionais();
 		
+		dspereira.HelloWorld.main(null);
 
 	}
 
