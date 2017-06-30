@@ -13,7 +13,7 @@ public class DateMatch {
 		
 		switch(input){
 			case "diogo":
-				System.out.println("O seu par ideal é Bianca");
+				System.out.println("O seu par ideal já foi a sua prima, mas hoje em dia é a Bianca");
 				break;
 			case "bianca":
 				System.out.println("O seu par ideal é Diogo. Não te stresses, o amor às vezes está onde menos esperamos. ");
