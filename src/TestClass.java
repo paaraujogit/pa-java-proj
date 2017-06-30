@@ -13,6 +13,10 @@ public class TestClass {
 		dspereira.HelloWorld.main(null);   
 		
 		ritaLanca.CheiraAQue.main(null);
+		
+		bonitao.DateMatch bonitao = new bonitao.DateMatch();
+		
+		bonitao.match();
 
 	}
 
