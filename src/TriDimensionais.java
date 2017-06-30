@@ -7,7 +7,7 @@ public class TriDimensionais {
 		System.out.println("Ola eu sou o Adriano");
 		System.out.println("Eu posso te ensinar os Arrays do Java, primeiro passo: ");
 
-		boolean opcaoValida = false;
+		boolean opcaoValida = false; 
 
 		do {
 			System.out.println("Entre com o Array que voce sente dificuldade");
