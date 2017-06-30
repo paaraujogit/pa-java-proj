@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class TriDimensionais {
 
 	public TriDimensionais() {
-		Scanner scan = new Scanner(System.in);
+		Scanner scan = new Scanner(System.in); 
 		System.out.println("Ola eu sou o Adriano");
 		System.out.println("Eu posso te ensinar os Arrays do Java, primeiro passo: ");
 

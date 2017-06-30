@@ -8,7 +8,7 @@ public class TotalAnarchy {
 	}
 	
 	public void showCnt() {
-		System.out.println("cntAnarquia = "+cntAnarquia); 
+		System.out.println("cntAnarquia = "+cntAnarquia);  
 	}
 
 }
